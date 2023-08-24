@@ -11,7 +11,7 @@ class TableView extends StatefulWidget {
 class _TableViewState extends State<TableView> {
   List<Map<String, dynamic>> list = [
     {'name': 'Nisam', 'age': '22', 'job': 'Developer'},
-    gi
+
     {'name': 'Athul', 'age': '25', 'job': 'Developer'},
     {'name': 'Fahis', 'age': '23', 'job': 'Developer'},
   ];
