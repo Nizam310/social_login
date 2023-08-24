@@ -16,7 +16,7 @@ class _TableViewState extends State<TableView> {
 
 
     {'name': 'Athudl', 'age': '25', 'job': 'Developer'},
-    {'name': 'Fahis', 'age': '23', 'job': 'Developer'},
+    {'name': 'Farhis', 'age': '23', 'job': 'Developer'},
   ];
   @override
   Widget build(BuildContext context) {
