@@ -13,6 +13,8 @@ class _TableViewState extends State<TableView> {
     {'name': 'Nisam', 'age': '22', 'job': 'Developer'},
 
 
+
+
     {'name': 'Athul', 'age': '25', 'job': 'Developer'},
     {'name': 'Fahis', 'age': '23', 'job': 'Developer'},
   ];
